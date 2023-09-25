@@ -168,4 +168,4 @@ const popup = new CustomPopup(position, html, type, [option]);
 
 ## 六.示例
 
-![](C:\Users\kangw\Desktop\cesium学习\cesium弹窗\cesium_custom_popup\image\Snipaste_2023-09-24_19-04-19.png)
+![](./image/Snipaste_2023-09-24_19-04-19.png)
