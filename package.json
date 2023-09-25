@@ -1,0 +1,10 @@
+{
+    "name": "cesium_custom_popup",
+    "version": "1.0.0",
+    "main": "./dist/index.js",
+    "files": ["dist"],
+    "description": "基于cesium开发的一个自定义弹窗类,提供了创建普通弹窗,视频弹窗,自定义DIY弹窗样式,实时变更弹窗位置以,实时变更弹窗内容功能",
+    "author": "kangweitao",
+    "keywords":["cesium","popup","custom_popup","cesium_custom_popup"],
+    "license": "ISC"
+}
