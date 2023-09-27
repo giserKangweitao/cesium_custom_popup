@@ -125,6 +125,7 @@ const popup = new CustomPopup(position, html, type, [option]);
 > borderColor, // 弹窗边框颜色，十六进制颜色值，非必须参数
 > backgroundColor, // 弹窗背景颜色，十六进制颜色值，非必须参数
 > scale, // 弹窗缩放比例，整数或浮点数，非必须参数
+> xyRatio， //弹框宽高比，数组，非必须参数
 > };
 > ```
 
