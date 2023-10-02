@@ -17,6 +17,10 @@ cesium.js 是一款优秀三维地理可视化框架，由于 cesium.js 框架�
 ```
 name:	康伟涛
 e-mail: kangweitao1998@163.com
+
+客官觉得满意，就施舍个小星星吧。谢谢！
+GitHub：https://github.com/giserKangweitao/cesium_custom_popup
+Gitee: https://gitee.com/giser_kangweitao/cesium_custom_popup
 ```
 
 ## 二.功能特性
@@ -203,7 +207,7 @@ const popup = new CustomPopup(position, html, type, [option]);
 
 - onMouseOutPopup()
 
-  > 作用：鼠标移除弹窗时触发的事件
+  > 作用：鼠标移出弹窗时触发的事件
   >
   > 参数：callback
   >
