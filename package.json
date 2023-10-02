@@ -1,9 +1,9 @@
 {
     "name": "cesium_custom_popup",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "main": "./dist/index.js",
     "files": ["dist","image"],
-    "description": "基于cesium开发的一个自定义弹窗类,提供了创建普通弹窗,视频弹窗,自定义DIY弹窗样式,实时变更弹窗位置以,实时变更弹窗内容功能",
+    "description": "基于cesium开发的一个自定义弹窗类,可以实例化创建普通弹窗,媒体弹窗,交互弹窗,实时更新弹窗。可以自定义DIY弹窗样式。实时变更弹窗位置以。实时变更弹窗内容功能。自定义弹窗事件",
     "author": "kangweitao",
     "keywords":["gis","cesium","popup","custom_popup","cesium_custom_popup"],
     "repository": "https://github.com/giserKangweitao/cesium_custom_popup.git",
