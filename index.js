@@ -4,7 +4,7 @@
  * @Autor: Kangweitao
  * @Date: 2023-09-24 17:47:53
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-09-26 17:47:45
+ * @LastEditTime: 2023-10-18 13:02:40
  */
 
 class CustomPopup {
@@ -112,11 +112,11 @@ class CustomPopup {
       0 * this.scale
     }px;z-index:999; width:${this.xyRatio[0] * 100 * this.scale}px;height:${
       30 * this.scale
-    }px;padding-right:30px;text-align: start;line-height: ${
+    }px;padding-left:20px;text-align: start;line-height: ${
       30 * this.scale
     }px; color:white;font-size:${
-      26 * this.scale
-    }px;font-weight: bolder;cursor: pointer;caret-color: transparent;margin-right:${
+      18 * this.scale
+    }px;font-weight: bolder;cursor: pointer;caret-color: transparent;margin-left:${
       0 * this.scale
     }px; border-radius: 0;background-color: ${
       this.borderColor
